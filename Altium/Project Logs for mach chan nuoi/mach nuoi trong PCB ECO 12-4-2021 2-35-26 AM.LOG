@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=BT CLEAN Pin=LoLin-1-D1
+Added Component: Designator=BT2(button 4 pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CN1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.01uF"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=BT CLEAN Pin=LoLin-1-D0
+Added Pin To Net: NetName=3v3 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=A0 Pin=LoLin-1-A0
+Added Pin To Net: NetName=A0 Pin=P1-6
+Added Net: Name=A0
+Added Pin To Net: NetName=BT EAT Pin=BT2-2
+Added Pin To Net: NetName=BT EAT Pin=BT2-2
+Added Pin To Net: NetName=BT EAT Pin=C2-2
+Added Pin To Net: NetName=BT EAT Pin=LoLin-1-D1
+Added Pin To Net: NetName=BT EAT Pin=R11-1
+Added Net: Name=BT EAT
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-1
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-1
+Added Pin To Net: NetName=NetBT2_1 Pin=R12-2
+Added Net: Name=NetBT2_1
+Added Member To Class: ClassName=sdnl Member=Component BT2 BUTTON
+Added Member To Class: ClassName=sdnl Member=Component C2 103
+Added Member To Class: ClassName=sdnl Member=Component R11 10k
+Added Member To Class: ClassName=sdnl Member=Component R12 10k

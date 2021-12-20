@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DATA Pin=LoLin-1-D5
+Removed Pin From Net: NetName=CLK Pin=LoLin-1-D6
+Removed Pin From Net: NetName=CON Pin=LoLin-1-D7
+Added Pin To Net: NetName=CLK Pin=LoLin-1-D5
+Added Pin To Net: NetName=CON Pin=LoLin-1-D6
+Added Pin To Net: NetName=DATA Pin=LoLin-1-D7

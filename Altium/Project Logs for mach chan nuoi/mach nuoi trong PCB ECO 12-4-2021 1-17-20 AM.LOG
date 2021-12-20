@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=O-CLN Pin=P2-1
+Removed Pin From Net: NetName=O-FAN Pin=P2-2
+Removed Pin From Net: NetName=O-LIG Pin=P2-3
+Removed Pin From Net: NetName=DRIVER Pin=P2-6
+Added Pin To Net: NetName=DRIVER Pin=P2-1
+Added Pin To Net: NetName=O-LIG Pin=P2-2
+Added Pin To Net: NetName=O-CLN Pin=P2-7
+Added Pin To Net: NetName=O-FAN Pin=P2-8

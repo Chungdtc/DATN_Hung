@@ -1,0 +1,40 @@
+String host = "192.168.43.165";
+int port =3000;
+
+//Dinh nghia on
+/*************************************************/
+void fan(String data) {
+  if (data == "0"){
+    sttFan = 0;
+  }
+  if (data == "1"){
+    sttFan = 1;
+  }
+}
+
+void wat(String data) {
+  if (data == "0"){
+    sttWater = 0;
+  }
+  if (data == "1"){
+    sttWater = 1;
+  }
+}
+
+void eat(String data) {
+  if (data == "0"){
+    sttEat = 0;
+  }
+  if (data == "1"){
+    sttEat = 1;
+  }
+}
+
+void cle(String data) {
+  if (data == "0"){
+    sttClean = 0;
+  }
+  if (data == "1"){
+    sttClean = 1;
+  }
+}

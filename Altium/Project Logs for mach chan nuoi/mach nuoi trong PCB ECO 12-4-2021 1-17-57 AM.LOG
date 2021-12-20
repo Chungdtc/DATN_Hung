@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=O-WAT Pin=P2-4
+Removed Pin From Net: NetName=DIR Pin=P2-5
+Removed Pin From Net: NetName=O-CLN Pin=P2-7
+Removed Pin From Net: NetName=O-FAN Pin=P2-8
+Added Pin To Net: NetName=O-CLN Pin=P2-3
+Added Pin To Net: NetName=O-FAN Pin=P2-4
+Added Pin To Net: NetName=O-WAT Pin=P2-5
+Added Pin To Net: NetName=DIR Pin=P2-6
